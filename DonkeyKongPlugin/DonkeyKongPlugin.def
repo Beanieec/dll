@@ -1,0 +1,4 @@
+LIBRARY DonkeyKong
+EXPORTS
+	GetPluginGamesName
+	GetPluginGames

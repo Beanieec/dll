@@ -1,0 +1,4 @@
+LIBRARY Mario
+EXPORTS
+	GetPluginGamesName
+	GetPluginGames
